@@ -4,7 +4,7 @@ Welcome to my personal portfolio website repository!
 This project showcases my skills, projects, and contact information.
 
 ## 🚀 Live Demo
-🔗 [View Portfolio](https://deveshnagar2004.github.io/portfolio-wesite)
+🔗 [View Portfolio]([https://deveshnagar2004.github.io/portfolio-wesite](https://deveshnagar2004.github.io/Devesh-Portfolio/))
 
 ---
 
